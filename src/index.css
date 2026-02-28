@@ -41,7 +41,7 @@ body {
 }
 
 .btn-primary:hover {
-  @apply opacity-90 -translate-y-[1px] shadow-[0_0_15px_rgba(212, 175, 55, 0.4)];
+  @apply opacity-90 -translate-y-[1px] shadow-[0_0_15px_rgba(212,175,55,0.4)];
 }
 
 .btn-secondary {
