@@ -336,7 +336,7 @@ const JoinMe = () => {
     };
 
     try {
-      const response = await fetch('https://services.leadconnectorhq.com/hooks/ugg4v4G1WJMtqGcWFUp5/webhook-trigger/d0f17af6-8f0f-46e8-b0fa-67084e1b94c4', {
+      const response = await fetch('https://services.leadconnectorhq.com/hooks/ugg4v4G1WJMtqGcWFUp5/webhook-trigger/7Lp7TMTKsRWKZLsCr6tt', {
         method: 'POST',
         headers: {
           'Content-Type': 'application/json',
